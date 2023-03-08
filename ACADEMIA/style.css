@@ -1,0 +1,21 @@
+#logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 60%;
+    border-style: solid;
+    border-color: red;
+    margin-left: 5%;
+}
+.links{
+    margin-top: 25%;
+}
+body{
+    background-color: #ff7276;
+}
+#diario{
+    background-color: aliceblue;
+    width: 83%;
+    height: 40%;
+    border-radius: 2%;
+    
+}
